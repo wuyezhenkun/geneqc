@@ -8,7 +8,7 @@ set –x
 
 
 
-cd /pylon5/cc5fpcp/weiliang/BMBL/GeneQC/PG2/GeneQC-master/GeneQC_Python
+cd /pylon5/cc5fpcp/weiliang/BMBL/GeneQC/Plant_Genome/GeneQC_Python
 
 module load anaconda5/5.0.0-3.6
 
